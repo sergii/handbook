@@ -14,6 +14,22 @@ Describing the development process best practices used by our Development Team.
   * Biweekly development meeting
 
 [Development](https://github.com/sergii/handbook/tree/master/Development)
+
+__Backend__
+
 * [Rails](https://github.com/sergii/handbook/tree/master/Development/Development/Rails)
   * [Background Jobs](https://github.com/sergii/handbook/tree/master/Development/Background%20Development%20Jobs)
   * [Logging](https://github.com/sergii/handbook/tree/master/Development/Logging)
+  * Localization
+  * Work with Third-party APIs
+    * General approach
+      * Versioning
+      * Authentication
+    * Tools (pros andd cons, best in market if they are)
+  * Local development
+    * Docker
+    
+__Frontend__
+
+* React
+* React Native
