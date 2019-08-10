@@ -33,3 +33,4 @@ __Frontend__
 
 * React
 * React Native
+* [Tips](https://github.com/sergii/handbook/tree/master/Development/Frontend/tips)
