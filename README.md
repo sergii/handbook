@@ -5,6 +5,10 @@
 # handbook
 Describing the development process best practices used by our Development Team.
 
+__Inception__
+
+[Setup Project Boilerplate](https://github.com/sergii/handbook/blob/master/Setup%%20Project%20Boilerplate)
+
 [Product Development Sprint](https://github.com/sergii/handbook/tree/master/Product%20Development%20Sprint/Scrum)
 * [User Story](https://github.com/sergii/handbook/blob/master/Product%20Development%20Sprint/Scrum/User%20Story)
 * [Spike](https://github.com/sergii/handbook/tree/master/Product%20Development%20Sprint/Scrum/Spike)
