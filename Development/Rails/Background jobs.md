@@ -76,7 +76,11 @@ end
 ```
 
 2. Make your job idempotent and transactional
-3. Embrace Concurrency
+
+Try to use [acidic_jobs](https://github.com/fractaledmind/acidic_job) gem (!) for that
+
+4. Embrace Concurrency
+5. Name jobs like: within_0_seconds, within_5_minutes, within_10_minutes
 
 ### Error Handling
 
