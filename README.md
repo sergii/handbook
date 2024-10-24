@@ -5,7 +5,7 @@
 # handbook
 Describing the development process best practices used by our Development Team.
 
-__Inception__
+### Inception
 
 [Setup Project Boilerplate](https://github.com/sergii/handbook/blob/master/Setup%%20Project%20Boilerplate)
 
@@ -19,7 +19,7 @@ __Inception__
 
 [Development](https://github.com/sergii/handbook/tree/master/Development)
 
-__Backend__
+### Backend
 
 * [Rails](https://github.com/sergii/handbook/tree/master/Development/Development/Rails)
   * [Background Jobs](https://github.com/sergii/handbook/tree/master/Development/Background%20Development%20Jobs)
@@ -33,8 +33,18 @@ __Backend__
   * Local development
     * Docker
     
-__Frontend__
+### Frontend
 
 * React
 * React Native
 * [Tips](https://github.com/sergii/handbook/tree/master/Development/Frontend/tips)
+
+### Processes
+
+__Feature Toggles__
+* For safer, incremental releases and testing we use [Launchdarkly](https://launchdarkly.com) free tier or [Flipper gem](https://github.com/flippercloud/flipper). Feature toggles enable incremental releases, testing in production, A/B testing, quick rollbacks, selective user experiences, and effective feature management, enhancing flexibility and reducing risk in the development process.
+
+__Developer Portal__
+* [Backstage](https://backstage.io/) from Spotify
+
+__
